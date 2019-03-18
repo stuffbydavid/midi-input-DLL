@@ -1,0 +1,43 @@
+﻿Build started 2016-01-20 17:58:54.
+     1>Project "C:\Users\david\OneDrive\Projects\Programs\Note Block Studio\DLL\midiinput\midiinput\midiinput.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MIDIINPUT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(160): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(166): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(167): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(168): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(174): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(175): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(181): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(182): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(188): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(189): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(195): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(196): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(197): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(203): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(204): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(210): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(211): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(217): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(223): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\david\onedrive\projects\programs\note block studio\dll\midiinput\midiinput\main.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\mcnbs.gmx\datafiles\Data\midiinput.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\..\mcnbs.gmx\datafiles\Data\midiinput.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\mcnbs.gmx\datafiles\Data\midiinput.lib" /MACHINE:X86 /DLL Debug\main.obj
+            Creating library ..\..\..\mcnbs.gmx\datafiles\Data\midiinput.lib and object ..\..\..\mcnbs.gmx\datafiles\Data\midiinput.exp
+     1>main.obj : error LNK2019: unresolved external symbol __imp__midiInGetNumDevs@0 referenced in function "void __cdecl UpdateMidiDevices(void)" (?UpdateMidiDevices@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__midiInGetDevCapsW@12 referenced in function "void __cdecl UpdateMidiDevices(void)" (?UpdateMidiDevices@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__midiInOpen@20 referenced in function "void __cdecl UpdateMidiDevices(void)" (?UpdateMidiDevices@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__midiInStart@4 referenced in function "void __cdecl UpdateMidiDevices(void)" (?UpdateMidiDevices@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__midiInStop@4 referenced in function "void __cdecl UpdateMidiDevices(void)" (?UpdateMidiDevices@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __CrtDbgReportW referenced in function "public: struct KeyPress const & __thiscall std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<struct KeyPress> > >::operator*(void)const " (??D?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UKeyPress@@@std@@@std@@@std@@QBEABUKeyPress@@XZ)
+     1>libcpmtd.lib(stdthrow.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+     1>..\..\..\mcnbs.gmx\datafiles\Data\midiinput.dll : fatal error LNK1120: 6 unresolved externals
+     1>Done Building Project "C:\Users\david\OneDrive\Projects\Programs\Note Block Studio\DLL\midiinput\midiinput\midiinput.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.10

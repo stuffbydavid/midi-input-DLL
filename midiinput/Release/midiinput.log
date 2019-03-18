@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+main.cpp(147): warning C4018: '<': signed/unsigned mismatch
+main.cpp(163): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(170): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(171): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(172): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(178): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(179): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(185): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(186): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(192): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(193): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(199): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(200): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(201): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(207): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(208): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(214): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(215): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(221): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(227): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(234): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     Creating library ..\..\..\mcnbs.gmx\datafiles\Data\midiinput.lib and object ..\..\..\mcnbs.gmx\datafiles\Data\midiinput.exp
+  Generating code
+  All 572 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  midiinput.vcxproj -> D:\OneDrive\Projects\Minecraft\Note Block Studio\Libraries\DLL\midiinput\midiinput\..\..\..\mcnbs.gmx\datafiles\Data\midiinput.dll
+  midiinput.vcxproj -> ..\..\..\mcnbs.gmx\datafiles\Data\midiinput.pdb (Full PDB)
